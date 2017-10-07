@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("what","bigs_first_commit");
+        Log.d("what","bigs_second add zhanshen sskey_commit");
     }
 }
