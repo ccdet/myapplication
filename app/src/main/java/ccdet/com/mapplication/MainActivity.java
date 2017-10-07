@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("what","bigs_first_commit");
         Log.d("what","bigs_second add zhanshen sskey_commit");
         Log.d("what","dev===ccdet");
+        Log.d("what","dev=111==ccdet");
     }
 }
